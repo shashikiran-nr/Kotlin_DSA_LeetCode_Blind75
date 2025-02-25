@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - remove comment." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="koltin_dsa_leetcode_blind75" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2s4N4ObAp96W1NAj116GLJRVlLJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "/Users/sash/WorkSpace/Kotlin/Kotlin_DSA_BLIND75/src/main/kotlin/based_on_data_structure",
+    "last_opened_file_path": "/Users/sash/WorkSpace/Kotlin/Kotlin_DSA_BLIND75/src/main/kotlin/based_on_data_structure/string",
+    "settings.editor.selected.configurable": "preferences.customizations",
+    "vcs.patch.path": "/Users/sash/Downloads"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_dsa_patterns/arrays_and_hashing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LeetCode_LongestConsecutiveOnes_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="based_on_data_structure.array.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+      <module name="Kotlin_DSA_BLIND75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="" />
+      <created>1737710699385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737710699385</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Kotlin DSA Practice - First drop.">
+      <created>1740458568201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740458568201</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Kotlin DSA Practice - remove comment.">
+      <created>1740460774145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740460774145</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kotlin DSA Practice - First drop." />
+    <MESSAGE value="Kotlin DSA Practice - remove comment." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - remove comment." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_LongestConsecutiveOnes_Kotlin.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
