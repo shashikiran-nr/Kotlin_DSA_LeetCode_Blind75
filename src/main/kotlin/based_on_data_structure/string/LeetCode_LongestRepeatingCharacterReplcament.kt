@@ -34,8 +34,5 @@ fun main() {
     println("The length of longest sub-array with repeating character is $result")
 }
 fun characterReplacement(s: String, k: Int): Int {
-    // Brute force
-
-
     return -1
 }
