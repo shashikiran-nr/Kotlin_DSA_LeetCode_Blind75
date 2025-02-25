@@ -28,11 +28,39 @@ package based_on_data_structure.string
  *
  */
 fun main() {
-    val s = "ABAB"
-    val k = 2
+    val s = "AABABBA"
+    val k = 1
     val result = characterReplacement(s, k)
     println("The length of longest sub-array with repeating character is $result")
 }
 fun characterReplacement(s: String, k: Int): Int {
-    return -1
+    val n = s.length
+    var left = 0
+    var maxFreqOfChar = 0
+    var maxWindowSize = 0
+    val freqArray = IntArray(26)
+
+
+    // Optimal Solution
+    for(right in 0 until n) {
+
+        // update the frequency of every char
+        freqArray[s[right] - 'A']++
+
+        // finding the maxFreq
+        maxFreqOfChar = maxFreqOfChar.coerceAtLeast(freqArray[s[right] - 'A'])
+
+        // window size
+        var currWindowSize = right - left + 1
+
+        // char to change : windowSize - maxFreqOfChar
+        if(currWindowSize - maxFreqOfChar > k) {
+            freqArray[s[left] - 'A']--
+            left++
+        }
+        // re-cal window size after moving left
+        currWindowSize = right - left + 1
+        maxWindowSize = maxWindowSize.coerceAtLeast(currWindowSize)
+    }
+    return maxWindowSize
 }

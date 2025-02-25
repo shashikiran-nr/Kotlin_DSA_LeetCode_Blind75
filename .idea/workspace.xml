@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - workspace.xml commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - workspace and misc.xml commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string/LeetCode_LongestRepeatingCharacterReplcament.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string/LeetCode_LongestRepeatingCharacterReplcament.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.LeetCode_LongestRepeatingCharacterReplcamentKt">
     <configuration name="LeetCode_LongestConsecutiveOnes_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="based_on_data_structure.array.LeetCode_LongestConsecutiveOnes_KotlinKt" />
       <module name="Kotlin_DSA_BLIND75" />
@@ -65,9 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetCode_LongestRepeatingCharacterReplcamentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="based_on_data_structure.string.LeetCode_LongestRepeatingCharacterReplcamentKt" />
+      <module name="Kotlin_DSA_BLIND75" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestRepeatingCharacterReplcamentKt" />
         <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
         <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
         <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
@@ -112,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740464653059</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kotlin DSA Practice - workspace and misc.xml commit">
+      <created>1740466472543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740466472543</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,31 +157,12 @@
     <MESSAGE value="Kotlin DSA Practice - remove comment." />
     <MESSAGE value="Kotlin DSA Practice - misc.xml commit" />
     <MESSAGE value="Kotlin DSA Practice - workspace.xml commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - workspace.xml commit" />
+    <MESSAGE value="Kotlin DSA Practice - workspace and misc.xml commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - workspace and misc.xml commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
-          <line>21</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
-          <line>26</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
-          <line>14</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_LongestConsecutiveOnes_Kotlin.kt</url>
           <line>28</line>
@@ -175,5 +170,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin_DSA_BLIND75$LeetCode_LongestRepeatingCharacterReplcamentKt.ic" NAME="LeetCode_LongestRepeatingCharacterReplcamentKt Coverage Results" MODIFIED="1740472440265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
