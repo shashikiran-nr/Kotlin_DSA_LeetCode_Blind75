@@ -153,7 +153,4 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Kotlin_DSA_BLIND75$LeetCode_LongestRepeatingCharacterReplcamentKt.ic" NAME="LeetCode_LongestRepeatingCharacterReplcamentKt Coverage Results" MODIFIED="1740472440265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
 </project>
