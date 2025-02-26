@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="" />
+    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - resolved merge conflicts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740460774145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kotlin DSA Practice - resolved merge conflicts">
+      <created>1740550744190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740550744190</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,7 +119,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kotlin DSA Practice - First drop." />
     <MESSAGE value="Kotlin DSA Practice - remove comment." />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - remove comment." />
+    <MESSAGE value="Kotlin DSA Practice - resolved merge conflicts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - resolved merge conflicts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
