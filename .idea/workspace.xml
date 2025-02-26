@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - remove comment." />
+    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "/Users/sash/WorkSpace/Kotlin/Kotlin_DSA_BLIND75/src/main/kotlin/based_on_data_structure",
-    "last_opened_file_path": "/Users/sash/WorkSpace/Kotlin/Kotlin_DSA_BLIND75/src/main/kotlin/based_on_data_structure/string",
-    "settings.editor.selected.configurable": "preferences.customizations",
-    "vcs.patch.path": "/Users/sash/Downloads"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/sash/WorkSpace/Kotlin/Kotlin_DSA_BLIND75/src/main/kotlin/based_on_data_structure&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sash/WorkSpace/Kotlin/Kotlin_DSA_BLIND75/src/main/kotlin/based_on_data_structure/string&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;,
+    &quot;vcs.patch.path&quot;: &quot;/Users/sash/Downloads&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string" />
@@ -144,5 +144,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin_DSA_BLIND75$LeetCode_LongestRepeatingCharacterReplcamentKt.ic" NAME="LeetCode_LongestRepeatingCharacterReplcamentKt Coverage Results" MODIFIED="1740472440265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
