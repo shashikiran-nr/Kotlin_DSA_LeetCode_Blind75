@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - 424. Longest Repeating Character Replacement solution push" />
+    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - resolved merge conflicts" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,15 +19,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="koltin_dsa_leetcode_blind75_latest" />
+        <entry key="$PROJECT_DIR$" value="koltin_dsa_leetcode_blind75" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2s4N4ObAp96W1NAj116GLJRVlLJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LeetCode_LongestRepeatingCharacterReplcamentKt">
+  <component name="RunManager">
     <configuration name="LeetCode_LongestConsecutiveOnes_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="based_on_data_structure.array.LeetCode_LongestConsecutiveOnes_KotlinKt" />
       <module name="Kotlin_DSA_BLIND75" />
@@ -62,18 +66,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode_LongestRepeatingCharacterReplcamentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="based_on_data_structure.string.LeetCode_LongestRepeatingCharacterReplcamentKt" />
-      <module name="Kotlin_DSA_BLIND75" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LeetCode_LongestRepeatingCharacterReplcamentKt" />
         <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
-        <item itemvalue="Kotlin.LeetCode_LongestRepeatingCharacterReplcamentKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
         <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
         <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
       </list>
@@ -102,35 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740460774145</updated>
     </task>
-    <task id="LOCAL-00003" summary="Kotlin DSA Practice - misc.xml commit">
-      <created>1740462786141</created>
+    <task id="LOCAL-00003" summary="Kotlin DSA Practice - resolved merge conflicts">
+      <created>1740550744190</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1740462786141</updated>
+      <updated>1740550744190</updated>
     </task>
-    <task id="LOCAL-00004" summary="Kotlin DSA Practice - workspace.xml commit">
-      <created>1740464653059</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1740464653059</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Kotlin DSA Practice - workspace and misc.xml commit">
-      <created>1740466472543</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1740466472543</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Kotlin DSA Practice - 424. Longest Repeating Character Replacement solution push">
-      <created>1740475297448</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1740475297448</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,19 +114,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/koltin_dsa_leetcode_blind75" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -159,15 +123,32 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kotlin DSA Practice - First drop." />
     <MESSAGE value="Kotlin DSA Practice - remove comment." />
-    <MESSAGE value="Kotlin DSA Practice - misc.xml commit" />
-    <MESSAGE value="Kotlin DSA Practice - workspace.xml commit" />
-    <MESSAGE value="Kotlin DSA Practice - workspace and misc.xml commit" />
-    <MESSAGE value="Kotlin DSA Practice - 424. Longest Repeating Character Replacement solution push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - 424. Longest Repeating Character Replacement solution push" />
+    <MESSAGE value="Kotlin DSA Practice - resolved merge conflicts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin DSA Practice - resolved merge conflicts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_LongestConsecutiveOnes_Kotlin.kt</url>
           <line>28</line>
@@ -175,8 +156,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Kotlin_DSA_BLIND75$LeetCode_LongestRepeatingCharacterReplcamentKt.ic" NAME="LeetCode_LongestRepeatingCharacterReplcamentKt Coverage Results" MODIFIED="1740472440265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
