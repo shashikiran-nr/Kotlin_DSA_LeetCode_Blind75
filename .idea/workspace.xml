@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - resolved merge conflicts" />
+    <list default="true" id="76529b15-43e6-4d0e-98a9-1d37cc7d823c" name="Changes" comment="Kotlin DSA Practice - resolved merge conflicts">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/META-INF/Kotlin_DSA_BLIND75.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/META-INF/Kotlin_DSA_BLIND75.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/LeetCode_BuyAndSellStocks_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/LeetCode_ContainsDuplicates_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/LeetCode_LongestConsecutiveOnes_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/LeetCode_MaximumSubArray_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/LeetCode_ProductofArrayExceptSelf_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/LeetCode_TwoSum_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/array/SortOnesAndZeros_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/string/LeetCode_GroupAnagramKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/string/LeetCode_LogestRepeatingCharacterReplcamentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/string/LeetCode_LongestSubstringWORepeatingChar_KotlinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_data_structure/string/LeetCode_ValidAnagramKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_dsa_patterns/arrays_and_hashing/LeetCode_ContainsDuplicatesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_dsa_patterns/arrays_and_hashing/LeetCode_GroupAnagramKt$groupAnagrams$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_dsa_patterns/arrays_and_hashing/LeetCode_GroupAnagramKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin_DSA_BLIND75/based_on_dsa_patterns/arrays_and_hashing/LeetCode_ValidAnagramKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_BuyAndSellStocks_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/array/LeetCode_BestTimeToBuyandSellStock.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_ContainsDuplicates_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/array/LeetCode_ContainsDuplicate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_LongestConsecutiveOnes_Kotlin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_MaximumSubArray_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/array/LeetCode_MaximumSubarray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_ProductofArrayExceptSelf_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/array/LeetCode_ProductOfArrayExceptSelf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_TwoSum_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/array/LeetCode_TwoSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string/LeetCode_GroupAnagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/string/LeetCode_GroupAnagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string/LeetCode_LongestRepeatingCharacterReplcament.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/string/LeetCode_LongestRepeatingCharacterReplcament.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string/LeetCode_LongestSubstringWORepeatingChar_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/string/LeetCode_LongestSubstringWORepeatingChar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/string/LeetCode_ValidAnagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/string/LeetCode_ValidAnagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_dsa_patterns/arrays_and_hashing/LeetCode_ContainsDuplicates.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_dsa_patterns/arrays_and_hashing/LeetCode_GroupAnagram.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/based_on_dsa_patterns/arrays_and_hashing/LeetCode_ValidAnagram.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +90,15 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_dsa_patterns/arrays_and_hashing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/z_extra_misc_problems" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/blind75_problems_category_by_data_structure/misc" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="LeetCode_LongestConsecutiveOnes_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="based_on_data_structure.array.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+    <configuration name="LeetCode_LongestConsecutiveOnesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blind75_problems_by_category.z_extra_misc_problems.LeetCode_LongestConsecutiveOnesKt" />
       <module name="Kotlin_DSA_BLIND75" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
-        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
-        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
-        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
-        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnes_KotlinKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnesKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnesKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnesKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnesKt" />
+        <item itemvalue="Kotlin.LeetCode_LongestConsecutiveOnesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,31 +168,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/z_extra_misc_problems/SortOnesAndZeros.kt</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/z_extra_misc_problems/SortOnesAndZeros.kt</url>
           <line>21</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/z_extra_misc_problems/SortOnesAndZeros.kt</url>
           <line>26</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/SortOnesAndZeros_Kotlin.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/z_extra_misc_problems/SortOnesAndZeros.kt</url>
           <line>14</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/based_on_data_structure/array/LeetCode_LongestConsecutiveOnes_Kotlin.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/blind75_problems_by_category/z_extra_misc_problems/LeetCode_LongestConsecutiveOnes.kt</url>
           <line>28</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin_DSA_BLIND75$LeetCode_LongestRepeatingCharacterReplcamentKt.ic" NAME="LeetCode_LongestRepeatingCharacterReplcamentKt Coverage Results" MODIFIED="1740472440265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

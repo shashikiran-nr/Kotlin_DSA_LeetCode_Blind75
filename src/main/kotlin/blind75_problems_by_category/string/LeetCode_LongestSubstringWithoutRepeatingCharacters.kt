@@ -1,4 +1,4 @@
-package based_on_data_structure.string
+package blind75_problems_by_category.string
 
 /**
  * 3. Longest Substring Without Repeating Characters

@@ -1,4 +1,6 @@
-package based_on_dsa_patterns.arrays_and_hashing
+package blind75_problems_by_category.string
+
+import kotlin.text.StringBuilder
 
 /**
  * 49. Group Anagrams
@@ -61,11 +63,35 @@ fun groupAnagrams(strs: Array<String>): List<List<String>> {
 //    }
 //    return groups
 
-    // Optimal solution1 using map
+    // Optimal solution1 using map and sorting.
     val groupAnagramMap = mutableMapOf<String, MutableList<String>>()
-    for(currWord in strs) {
-        val sortedWord = currWord.toCharArray().sorted().joinToString("")
-        groupAnagramMap.computeIfAbsent(sortedWord){ mutableListOf() }.add(currWord)
+//    for(currWord in strs) {
+//        val sortedWord = currWord.toCharArray().sorted().joinToString("")
+//        // using map operations
+//        groupAnagramMap.computeIfAbsent(sortedWord){ mutableListOf() }.add(currWord)
+//
+//        // Optimized if block
+//        if (!groupAnagramMap.containsKey(sortedWord)) {
+//            groupAnagramMap[sortedWord] = mutableListOf()
+//        }
+//        groupAnagramMap[sortedWord]!!.add(currWord)
+//    }
+
+    for(currStr in strs) {
+        val array = IntArray(26)
+        for(c in currStr.toCharArray()) {
+            array[c - 'a']++
+        }
+        val sb = StringBuilder()
+        for(i in array) {
+            sb.append("#")
+            sb.append(i)
+        }
+        val key = sb.toString()
+        if (!groupAnagramMap.containsKey(key)) {
+            groupAnagramMap[key] = mutableListOf()
+        }
+        groupAnagramMap[key]!!.add(currStr)
     }
     return groupAnagramMap.values.toList()
 }
