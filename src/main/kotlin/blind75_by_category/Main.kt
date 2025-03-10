@@ -1,4 +1,4 @@
-package blind75_problems_by_category
+package blind75_by_category
 
 fun main(args: Array<String>) {
     println("Hello World!")

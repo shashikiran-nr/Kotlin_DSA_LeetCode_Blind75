@@ -1,4 +1,4 @@
-package blind75_problems_by_category.string
+package blind75_by_category.string
 
 /**
  * 424. Longest Repeating Character Replacement
