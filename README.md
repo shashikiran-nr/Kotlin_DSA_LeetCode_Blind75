@@ -1,1 +1,1 @@
-# Kotlin_DSA_LeetCode_Blind75
+# Leetcode Blind75 Problem solved in Kotlin language. 

@@ -1,6 +1,4 @@
-package blind75_problems_by_category.string
-
-import kotlin.text.StringBuilder
+package blind75_by_category.string
 
 /**
  * 49. Group Anagrams

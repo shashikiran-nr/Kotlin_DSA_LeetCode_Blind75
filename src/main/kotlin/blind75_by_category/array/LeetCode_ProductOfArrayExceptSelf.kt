@@ -1,4 +1,4 @@
-package blind75_problems_by_category.array
+package blind75_by_category.array
 
 /**
  * 238. Product of Array Except Self
